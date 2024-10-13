@@ -1,6 +1,6 @@
 [
-{ "url":"01.wav","type":"audio","bank":"Audio","n":0},
-{ "url":"02.wav","type":"audio","bank":"Audio","n":1},
-{ "url":"03.wav","type":"audio","bank":"Audio","n":2},
-{ "url":"04.wav","type":"audio","bank":"Audio","n":3} 
+{ "url":"01.wav","type":"audio","bank":"audio","n":0},
+{ "url":"02.wav","type":"audio","bank":"audio","n":1},
+{ "url":"03.wav","type":"audio","bank":"audio","n":2},
+{ "url":"04.wav","type":"audio","bank":"audio","n":3} 
 ]
